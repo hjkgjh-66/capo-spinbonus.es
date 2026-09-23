@@ -1,0 +1,11 @@
+name = "capo-spinbonus-es"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=capo-spinbonus.es"
+HMAC_KEY = "a103092f008f44e050f16f05217c101f7cf94e58bd130c3f0c0f8067adb61076"
+COOKIE_NAME = "b7h"
+PLAY_PATH = "visit"
+BUTTON_ID = "pb82f0f6198ceae2c90817bb87cc30481"
+GATE_SALT = "4621740057f5f9e8"
